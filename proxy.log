@@ -1,0 +1,21 @@
+2024-08-27 17:35:37,833 - INFO - 127.0.0.1 - Received CONNECT request for price.mazig.io:443
+2024-08-27 17:35:37,833 - INFO - 127.0.0.1 - Connecting to price.mazig.io:443
+2024-08-27 17:35:37,889 - INFO - 127.0.0.1 - "CONNECT price.mazig.io:443 HTTP/1.0" 200 -
+2024-08-27 17:35:37,889 - INFO - 127.0.0.1 - Connection established for price.mazig.io:443
+2024-08-27 17:36:42,453 - INFO - 127.0.0.1 - Received CONNECT request for price.mazig.io:443
+2024-08-27 17:36:42,453 - INFO - 127.0.0.1 - Connecting to price.mazig.io:443
+2024-08-27 17:36:42,510 - INFO - 127.0.0.1 - "CONNECT price.mazig.io:443 HTTP/1.0" 200 -
+2024-08-27 17:36:42,510 - INFO - 127.0.0.1 - Connection established for price.mazig.io:443
+2024-08-27 17:37:15,632 - INFO - 127.0.0.1 - Received GET request for http://localhost:5000/hello
+2024-08-27 17:37:15,632 - INFO - 127.0.0.1 - Forwarding GET request to http://localhost:5000/hello
+2024-08-27 17:37:15,640 - INFO - 127.0.0.1 - "GET http://localhost:5000/hello HTTP/1.1" 200 -
+2024-08-27 17:37:15,640 - INFO - 127.0.0.1 - Successfully forwarded GET request to http://localhost:5000/hello
+2024-08-27 17:42:10,536 - INFO - Serving at port 8080 with HTTPS
+2024-08-27 17:42:14,336 - INFO - 127.0.0.1 - Received GET request for http://localhost:5000/hello
+2024-08-27 17:42:14,336 - INFO - 127.0.0.1 - Forwarding GET request to http://localhost:5000/hello
+2024-08-27 17:42:14,343 - INFO - 127.0.0.1 - "GET http://localhost:5000/hello HTTP/1.1" 200 -
+2024-08-27 17:42:14,343 - INFO - 127.0.0.1 - Successfully forwarded GET request to http://localhost:5000/hello
+2024-08-27 17:42:32,698 - INFO - 127.0.0.1 - Received CONNECT request for price.mazig.io:443
+2024-08-27 17:42:32,699 - INFO - 127.0.0.1 - Connecting to price.mazig.io:443
+2024-08-27 17:42:32,827 - INFO - 127.0.0.1 - "CONNECT price.mazig.io:443 HTTP/1.0" 200 -
+2024-08-27 17:42:32,827 - INFO - 127.0.0.1 - Connection established for price.mazig.io:443
